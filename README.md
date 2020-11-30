@@ -1,1 +1,1 @@
-# GuoHeadInterstitialSDK_iOS
+off
